@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#container{
+    width: 800px;
+    display: table;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+table{
+    border-collapse: collapse;
+    margin: 10px;
+}
+
+table, th, td{
+    border: 1px solid black;
+    padding: 4px;
+}
+
+h1{
+    color: red;
+}
+
+#textbox{
+    margin: 20px 0px 20px 50px;
+    height: 20px;
+    width: 314px;
+    padding: 2px;
+}
+
+#descbox{
+    margin-left: 15px;
+    padding: 2px;
+}
+
+#label{
+    vertical-align: top;
+}
+
+input[type="submit"]{
+    margin-left: 380px;
+    margin-top: 5px;
+}
+
+#bottom{
+    margin-top: 20px;
+}
